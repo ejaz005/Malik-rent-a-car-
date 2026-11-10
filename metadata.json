@@ -1,0 +1,6 @@
+{
+  "name": "Malik Rent A Car Gilgit Baltistan",
+  "description": "Reliable & Affordable Rides Across Gilgit-Baltistan. 4x4 Prado, Land Cruiser, Hilux & Tours in Gilgit, Skardu, Hunza & Fairy Meadows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
